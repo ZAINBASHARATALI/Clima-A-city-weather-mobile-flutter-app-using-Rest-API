@@ -4,6 +4,16 @@ Clima is a Weather App for cities which makes use of Powerful Flutter Platform t
 \
 The app shows the information like current temperature, humidity, pressure, wind speed, feels like info generally. It also shows you the rate of change in temperature for the last 10 days of city. This changes of temperature are shown in beautifully presented Chart representation.
 
+## Instructions to use
+
+In order to clone this app, Follow the instructions below\
+
+- Go to [OpenWeatherMap](https://openweathermap.org/) Website.
+- Create an account & verify your account through email
+- Go to API section on Website and Copy the ApiKey from there
+- In the Flutter Project go to this file: --->  Lib\Services\services.dart
+- Paste your copied ApiKey in the apikey variable in services.dart file
+- Build your Project and Smile :)
 
 ## Packages Used
 
