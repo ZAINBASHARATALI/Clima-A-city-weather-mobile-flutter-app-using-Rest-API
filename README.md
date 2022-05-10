@@ -5,7 +5,7 @@ Clima is a Weather App for cities which makes use of Powerful Flutter Platform t
 The app shows the information like current temperature, humidity, pressure, wind speed, feels like info generally. It also shows you the rate of change in temperature for the last 10 days of city. This changes of temperature are shown in beautifully presented Chart representation.
 
 
-## Packages Used![Clima](https://user-images.githubusercontent.com/62956793/167668591-d5fbefff-7aa5-48aa-a19b-ab366e850fda.gif)
+## Packages Used
 
 
 - [http](https://pub.dev/packages/http)
@@ -17,6 +17,7 @@ The app shows the information like current temperature, humidity, pressure, wind
 - [splash_screen_view](https://pub.dev/packages/splash_screen_view)
 
 
+![Clima](https://user-images.githubusercontent.com/62956793/167668591-d5fbefff-7aa5-48aa-a19b-ab366e850fda.gif)
 
 
 
