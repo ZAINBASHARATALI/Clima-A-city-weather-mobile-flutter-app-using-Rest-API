@@ -6,7 +6,7 @@ The app shows the information like current temperature, humidity, pressure, wind
 
 ## Instructions to use
 
-In order to clone this app, Follow the instructions below\
+In order to clone this app, Follow the instructions below
 
 - Go to [OpenWeatherMap](https://openweathermap.org/) Website.
 - Create an account & verify your account through email
